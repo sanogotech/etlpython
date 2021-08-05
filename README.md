@@ -2,7 +2,7 @@
 
 ## Docs
 - https://blog.panoply.io/top-9-python-etl-tools-and-when-to-use-them
-- 
+- https://www.zirous.com/2019/07/03/nifi-vs-kafka-or-is-it/
 ## Python Data
 If you're building a data warehouse, you need ETL to move data into that storage. To do that, you first extract data from an array of different sources. Then you apply transformations to get everything into a format you can use, and finally, you load it into your data warehouse. 
 
