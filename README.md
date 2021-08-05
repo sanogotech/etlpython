@@ -7,22 +7,22 @@ There are many ways to do this, one of which is the Python programming language.
 With that in mind, here are the top Python ETL Tools for 2021. Some of these let you manage each step of the ETL process, while others are excellent at a specific step. They are organized into groups to make it easier for you to compare them. Let’s go!
 
 ## Workflow management systems (WMS)
-Apache Airflow
-Luigi
-Data processing
-pandas
-Spark
-petl
+- Apache Airflow
+- Luigi
+- Data processing
+- pandas
+- Spark
+- petl
 
 ## ETL frameworks
-Bonobo
-Mara
-Pygrametl
+- Bonobo
+- Mara
+- Pygrametl
 
 
 ## Small but powerful
-odo
-ETLAlchemy
-Riko
-Locopy
-Inactive tools
+- odo
+- ETLAlchemy
+- Riko
+- Locopy
+- Inactive tools
