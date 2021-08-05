@@ -32,5 +32,9 @@ With that in mind, here are the top Python ETL Tools for 2021. Some of these let
 - Inactive tools
 
 ##  Data Collector
-- Nifi
-- Kafka
+###  Nifi
+
+NiFi is a data flow tool that was meant to fill the role of batch scripts, at the ever increasing scale of big data. Rather than maintain and watch scripts as environments change, NiFi was made to allow end users to maintain flows, easily add new targets and sources of data, and do all of these tasks with full data provenance and replay capability the whole time.
+
+NiFi encompasses the idea of flowfiles and processors. A flowfile is a single piece of information and is comprised of two parts, a header and content (very similar to an HTTP Request). The header contains many attributes that describe things like the data type of the content, the timestamp of creation, and a totally unique ‘uuid.’ Custom attributes can also be set and operated on in the logic of the flow. The content of a flowfile is simply the raw data that is being passed along. It could be plaintext, JSON, binary, or any other kind of bytes.
+### Kafka
