@@ -30,3 +30,7 @@ With that in mind, here are the top Python ETL Tools for 2021. Some of these let
 - Riko
 - Locopy
 - Inactive tools
+
+##  Data Collector
+- Nifi
+- Kafka
